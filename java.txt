@@ -1,0 +1,97 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Had chosen: CSE(2, 50, 000)
+Had chosen: 5 SHARE(1, 20, 000)
+				 Total amount to be paid is 3.8 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: r
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Had chosen: CSE(2, 50, 000)
+Had chosen: 5 SHARE(1, 20, 000)
+				 Total amount to be paid is 3.8 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Had chosen: CSE(2, 50, 000)
+Had chosen: bus(40, 000)
+				 Total amount to be paid is 2.9 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Had chosen: CSE(2, 50, 000)
+Had chosen: bus(40, 000)
+				 Total amount to be paid is 2.9 Lakhs 
+-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: 
+phone Number: 
+email address: 
+days: 5
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-on command prompt/n-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: 
+phone Number: 
+email address: 
+days: 4
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-40400/n-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: ronit
+phone Number: grp no,24
+email address: 70-72
+days: 1
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-10100/n-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: ronit
+phone Number: 123
+email address: met
+days: 3
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-30300/n-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: ronit
+phone Number: 212
+email address: ,e,;vmvnb
+days: 3
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-30300/n-------------------------------------------bill--------------------------------------------------------------------------------------
+visitor Name: ronit
+phone Number: 1234
+email address: mehta
+days: 3
+Way to payment: cash
+price =10000 
+parking=100 
+total cost:-30300/n-------------------------------------------bill--------------------------------------------------------------------------------------
+Visitor Name: ronit
+Phone Number: 24
+Email address: prempurva
+Days: 30
+Way to Payment: Cash
+Price =10000 
+Parking=100 
+Total Cost:-303000/n
